@@ -1,0 +1,46 @@
+2025-04-30 20:46:38.290 [main] INFO  app.App - Iniciando aplicación
+2025-04-30 20:46:38.300 [main] DEBUG app.App - Creando lista de números
+2025-04-30 20:46:38.301 [main] INFO  app.App - Imprimiendo lista de números
+2025-04-30 20:46:38.394 [main] DEBUG app.App - Calculando suma de números
+2025-04-30 20:46:38.446 [main] INFO  app.App - El resultado de la suma de todos los elementos es: 15
+2025-04-30 20:46:38.453 [main] INFO  app.App - Finalizando aplicación
+2025-04-30 21:00:37.152 [main] INFO  app.App - Iniciando aplicación
+2025-04-30 21:00:37.160 [main] DEBUG app.App - Generando lista de números aleatorios
+2025-04-30 21:00:37.179 [main] INFO  app.App - Generando 8 números aleatorios
+2025-04-30 21:00:37.184 [main] DEBUG app.App - Número aleatorio generado: 25
+2025-04-30 21:00:37.234 [main] DEBUG app.App - Número aleatorio generado: 90
+2025-04-30 21:00:37.234 [main] DEBUG app.App - Número aleatorio generado: 25
+2025-04-30 21:00:37.234 [main] DEBUG app.App - Número aleatorio generado: 23
+2025-04-30 21:00:37.234 [main] DEBUG app.App - Número aleatorio generado: 85
+2025-04-30 21:00:37.236 [main] DEBUG app.App - Número aleatorio generado: 10
+2025-04-30 21:00:37.236 [main] DEBUG app.App - Número aleatorio generado: 6
+2025-04-30 21:00:37.236 [main] DEBUG app.App - Número aleatorio generado: 52
+2025-04-30 21:00:37.240 [main] INFO  app.App - Imprimiendo lista de números aleatorios
+2025-04-30 21:00:37.246 [main] DEBUG app.App - Calculando suma de números
+2025-04-30 21:00:37.248 [main] DEBUG app.App - Calculando promedio de números
+2025-04-30 21:00:37.250 [main] DEBUG app.App - Calculando suma de números
+2025-04-30 21:00:37.251 [main] DEBUG app.App - Buscando número mínimo
+2025-04-30 21:00:37.257 [main] DEBUG app.App - Buscando número máximo
+2025-04-30 21:00:37.263 [main] INFO  app.App - Resultados calculados - Suma: 316, Promedio: 39.5, Mínimo: 6, Máximo: 90
+2025-04-30 21:00:37.280 [main] INFO  app.App - Finalizando aplicación
+2025-04-30 21:04:06.204 [main] INFO  app.App - Iniciando aplicación
+2025-04-30 21:04:06.218 [main] DEBUG app.App - Generando lista de números aleatorios
+2025-04-30 21:04:06.250 [main] INFO  app.App - Generando 10 números aleatorios
+2025-04-30 21:04:06.280 [main] DEBUG app.App - Número aleatorio generado: 30
+2025-04-30 21:04:06.305 [main] DEBUG app.App - Número aleatorio generado: 6
+2025-04-30 21:04:06.313 [main] DEBUG app.App - Número aleatorio generado: 49
+2025-04-30 21:04:06.316 [main] DEBUG app.App - Número aleatorio generado: 39
+2025-04-30 21:04:06.317 [main] DEBUG app.App - Número aleatorio generado: 44
+2025-04-30 21:04:06.318 [main] DEBUG app.App - Número aleatorio generado: 68
+2025-04-30 21:04:06.318 [main] DEBUG app.App - Número aleatorio generado: 50
+2025-04-30 21:04:06.319 [main] DEBUG app.App - Número aleatorio generado: 59
+2025-04-30 21:04:06.319 [main] DEBUG app.App - Número aleatorio generado: 57
+2025-04-30 21:04:06.321 [main] DEBUG app.App - Número aleatorio generado: 45
+2025-04-30 21:04:06.330 [main] INFO  app.App - Imprimiendo lista de números aleatorios
+2025-04-30 21:04:06.351 [main] DEBUG app.App - Calculando suma de números
+2025-04-30 21:04:06.353 [main] DEBUG app.App - Calculando promedio de números
+2025-04-30 21:04:06.366 [main] DEBUG app.App - Promedio calculado: 44.7 (suma: 447, cantidad: 10)
+2025-04-30 21:04:06.367 [main] DEBUG app.App - Buscando número mínimo
+2025-04-30 21:04:06.368 [main] DEBUG app.App - Buscando número máximo
+2025-04-30 21:04:06.370 [main] INFO  app.App - Resultados calculados - Suma: 447, Promedio: {:.2f}, Mínimo: 44.7, Máximo: 6
+2025-04-30 21:04:06.379 [main] INFO  app.App - Finalizando aplicación
